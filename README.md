@@ -2,9 +2,9 @@
 
 每天一句中国古诗词，生成 AI 图片 Powered by Bing DALL-E-3.
 
-### 👉🏽 [Fork By](https://github.com/liruifengv/daily-poetry-image)
+### 👉🏽 [Fork By @liruifengv's daily-poetry-image](https://github.com/liruifengv/daily-poetry-image)
 
-### 👉🏽 [Live Demo](https://daily.fengj.link/)
+### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 ## 项目介绍
 
