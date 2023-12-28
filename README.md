@@ -21,11 +21,9 @@
 
 ## 截图
 
-![图片列表](./screenshots/01.png)
+![图片列表](./screenshots/Snipaste_2023-12-28_21-00-26.png)
 
-![图片详情](./screenshots/02.png)
-
-![图片详情](./screenshots/03.png)
+![图片详情](./screenshots/Snipaste_2023-12-28_21-00-53.png)
 
 ## 灵感来源
 

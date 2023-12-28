@@ -4,8 +4,9 @@ const { data } = Astro.props;
 const images: string[] = []
 
 data.images.forEach((item: string, index: number) => {
-  const path = `/images/${data.localImagesPath}/${index}.jpg`
-  images.push(path)
+  // const path = `/images/${data.localImagesPath}/${index}.jpg`
+  // images.push(path)
+  images.push(item)
 });
 
 ---
