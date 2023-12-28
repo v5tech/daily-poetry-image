@@ -2,7 +2,7 @@
 
 每天一句中国古诗词，生成 AI 图片 Powered by Bing DALL-E-3.
 
-### 👉🏽 [Fork By @liruifengv's daily-poetry-image](https://github.com/liruifengv/daily-poetry-image)
+### 👉🏽 [Base On @liruifengv's daily-poetry-image](https://github.com/liruifengv/daily-poetry-image)
 
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
@@ -30,16 +30,6 @@
 ## 灵感来源
 
 -   [yihong0618/2023](https://github.com/yihong0618/2023)
-
-## Star History
-
-<a href="https://star-history.com/#liruifengv/daily-poetry-image&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=liruifengv/daily-poetry-image&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=liruifengv/daily-poetry-image&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=liruifengv/daily-poetry-image&type=Date" />
-  </picture>
-</a>
 
 ## License
 
