@@ -57,10 +57,10 @@ async function init() {
             const contentFile = path.join(contentPath, `${imagesFolderName}.json`);
             fs.writeFileSync(contentFile, JSON.stringify(outputData));
 
-            setTimeout(() => {
-                // 为了让图片下载完毕，再退出进程
-                process.exit(0);
-            }, 5000);
+            // setTimeout(() => {
+            //     // 为了让图片下载完毕，再退出进程
+            //     process.exit(0);
+            // }, 5000);
         } catch (e) {
             console.error(e);
             process.exit(1);
