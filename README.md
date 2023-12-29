@@ -1,16 +1,16 @@
 
 ## daily-poetry-image
 
-最近一次生成时间: 2023/12/29 17:07:51
+最近一次生成时间: 2023/12/30 07:14:13
 
-![Image 1](https://tse3.mm.bing.net/th/id/OIG.6WPY_yYZ39BCbZNj5l08)
-![Image 2](https://tse3.mm.bing.net/th/id/OIG.dEg6isYuyrR8yt2FT7rV)
-![Image 3](https://tse2.mm.bing.net/th/id/OIG.wSZhaa491pvqsiUVpDQu)
-![Image 4](https://tse2.mm.bing.net/th/id/OIG.rC_6Nj66Mw43cbtyMCdm)
+![Image 1](https://tse4.mm.bing.net/th/id/OIG.ytYuizONl94n7MwU08ak)
+![Image 2](https://tse3.mm.bing.net/th/id/OIG.8C6Xd7E9ReTkfrHw.SPM)
+![Image 3](https://tse2.mm.bing.net/th/id/OIG.UrI5itccMK0HlwUrNaTk)
+![Image 4](https://tse2.mm.bing.net/th/id/OIG.pjacI0VaGD_DGm77lUWb)
 
-山高月小，水落石出
+宫衣亦有名，端午被恩荣。
 
-后赤壁赋 • 苏轼
+端午日赐衣 • 杜甫
 
 每天一句中国古诗词，生成 AI 图片 Powered by Bing DALL-E-3.
 
