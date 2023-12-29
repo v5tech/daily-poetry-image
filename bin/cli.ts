@@ -107,7 +107,7 @@ async function init() {
             const imageMarkdown = outputData.images.map((imagePath, index) => `![Image ${index + 1}](${imagePath})`).join("\n");
 
             // Replace GENERATE_CONTENT with the image markdown and current date
-            const newContent = readmeContent.replace("GENERATE_CONTENT", `${imageMarkdown}\n\n${outputData.content}\\${outputData.origin} | ${outputData.author}\n\n最近一次生成时间: ${currentDate}`);
+            const newContent = readmeContent.replace("GENERATE_CONTENT", `最近一次生成时间: ${currentDate}\n\n${imageMarkdown}\n\n${outputData.content}\n\n${outputData.origin} • ${outputData.author}`);
 
             // Write the updated content back to README.md
             await fs.promises.writeFile(readmePath, newContent);
