@@ -1,16 +1,16 @@
 
 ## daily-poetry-image
 
-最近一次生成时间: 2023/12/29 15:02:56
+最近一次生成时间: 2023/12/29 17:07:51
 
-![Image 1](https://tse1.mm.bing.net/th/id/OIG.guazyt9o1ZQuNfJMUT2F)
-![Image 2](https://tse3.mm.bing.net/th/id/OIG.3dYqqUkeZWrIUVcG1EpY)
-![Image 3](https://tse3.mm.bing.net/th/id/OIG.lbZOhCu4gH37eZ2xearP)
-![Image 4](https://tse4.mm.bing.net/th/id/OIG.ypZDt7zaQuMO_gfhIjFr)
+![Image 1](https://tse3.mm.bing.net/th/id/OIG.6WPY_yYZ39BCbZNj5l08)
+![Image 2](https://tse3.mm.bing.net/th/id/OIG.dEg6isYuyrR8yt2FT7rV)
+![Image 3](https://tse2.mm.bing.net/th/id/OIG.wSZhaa491pvqsiUVpDQu)
+![Image 4](https://tse2.mm.bing.net/th/id/OIG.rC_6Nj66Mw43cbtyMCdm)
 
-圆荷浮小叶，细麦落轻花。
+山高月小，水落石出
 
-为农 • 杜甫
+后赤壁赋 • 苏轼
 
 每天一句中国古诗词，生成 AI 图片 Powered by Bing DALL-E-3.
 
