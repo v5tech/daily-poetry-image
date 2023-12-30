@@ -1,16 +1,16 @@
 
 ## daily-poetry-image
 
-最近一次生成时间: 2023/12/30 07:14:13
+最近一次生成时间: 2023/12/30 10:44:44
 
-![Image 1](https://tse4.mm.bing.net/th/id/OIG.ytYuizONl94n7MwU08ak)
-![Image 2](https://tse3.mm.bing.net/th/id/OIG.8C6Xd7E9ReTkfrHw.SPM)
-![Image 3](https://tse2.mm.bing.net/th/id/OIG.UrI5itccMK0HlwUrNaTk)
-![Image 4](https://tse2.mm.bing.net/th/id/OIG.pjacI0VaGD_DGm77lUWb)
+![Image 1](https://tse1.mm.bing.net/th/id/OIG._3p6xHHKZ_CO8YEX_R7U)
+![Image 2](https://tse1.mm.bing.net/th/id/OIG.BFAEShv6_DwzXu6u2id5)
+![Image 3](https://tse3.mm.bing.net/th/id/OIG.qqar3cSOwdIEa1.3aJS4)
+![Image 4](https://tse2.mm.bing.net/th/id/OIG.NG5pTis8EcZdyXyUZoF0)
 
-宫衣亦有名，端午被恩荣。
+镜水夜来秋月，如雪。
 
-端午日赐衣 • 杜甫
+荷叶杯·镜水夜来秋月 • 温庭筠
 
 每天一句中国古诗词，生成 AI 图片 Powered by Bing DALL-E-3.
 
