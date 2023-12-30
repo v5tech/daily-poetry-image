@@ -8,15 +8,26 @@ import { promisify } from "util";
 const pipeline = promisify(stream.pipeline);
 
 let readmeContent = `
-## daily-poetry-image
+# daily-poetry-image
 
-GENERATE_CONTENT
-
-每天一句中国古诗词，生成 AI 图片 Powered by Bing DALL-E-3.
+## 每天一句中国古诗词，生成 AI 图片 Powered by Bing DALL-E-3.
 
 ### 👉🏽 [Base On @liruifengv's daily-poetry-image](https://github.com/liruifengv/daily-poetry-image)
 
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
+
+<p align="right">
+  最近一次生成时间: CurrentDate
+</p>
+<p align="center">
+ContentBody
+</p>
+<p align="center">
+OriginAuthor
+</p>
+<p align="center">
+ImagesContent
+</p>
 
 ## 项目介绍
 
@@ -104,10 +115,14 @@ async function init() {
             // Update README.md content
 
             // Generate markdown for the images
-            const imageMarkdown = outputData.images.map((imagePath, index) => `![Image ${index + 1}](${imagePath})`).join("\n");
+            const imagesContent = outputData.images.map((imagePath, index) => `<img src="${imagePath}" height="468" width="468" />`).join("\n");
 
-            // Replace GENERATE_CONTENT with the image markdown and current date
-            const newContent = readmeContent.replace("GENERATE_CONTENT", `最近一次生成时间: ${currentDate}\n\n${imageMarkdown}\n\n${outputData.content}\n\n${outputData.origin} • ${outputData.author}`);
+            // Replace CurrentDate、ContentBody、OriginAuthor、ImagesContent with the image markdown and current date
+            const newContent = readmeContent
+                .replace("CurrentDate", `${currentDate}`)
+                .replace("ContentBody", `${outputData.content}`)
+                .replace("OriginAuthor", `<<${outputData.origin}>> • ${outputData.author}`)
+                .replace("ImagesContent", `${imagesContent}`);
 
             // Write the updated content back to README.md
             await fs.promises.writeFile(readmePath, newContent);
