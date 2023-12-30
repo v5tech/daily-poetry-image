@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2023/12/30 17:04:44
+  最近一次生成时间: 2023/12/30 17:07:11
 </p>
 <p align="center">
-松树千年终是朽，槿花一日自为荣。
+人而无仪，不死何为？
 </p>
 <p align="center">
-<<放言五首·其五>> • 白居易
+<<相鼠>> • 佚名
 </p>
 <p align="center">
-<img src="https://tse2.mm.bing.net/th/id/OIG.fBJ4YFAMFXekFbIYKtlf" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG.iIp5DVQOa_JXTFPLje9u" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG.3Wtx6G4Z5hwRcmACajiP" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG.kA72j04QCAHm5D6sAX.S" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG.KRvDkkBNmvacYiiQ5Xwv" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG.hNdNmP5PKzJEp3rri6Zm" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG.SUVbBC6yydp8PtQp.b4X" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG.zhGbTOJ5tVv3IZ019XbB" height="400" width="400" />
 </p>
 
 ## 项目介绍
