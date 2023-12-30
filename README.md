@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2023/12/30 16:30:53
+  最近一次生成时间: 2023/12/30 16:35:24
 </p>
 <p align="center">
-人生自古谁无死？留取丹心照汗青。
+更可惜，雪中高树，香篝熏素被。
 </p>
 <p align="center">
-<<过零丁洋>> • 文天祥
+<<花犯·小石梅花>> • 周邦彦
 </p>
 <p align="center">
-<img src="https://tse1.mm.bing.net/th/id/OIG.rdsXuj8A8AyvcME_e5vf" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG.Vt9hOKrKcDFL.NSd46LZ" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG.zGkr4sYgDnH5fxAl6r64" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG.1R45xS6RGF_pGxeIs43l" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG.xX2ZG6ABN0Ftbd0Wt2VY" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG.BrGOWGGeBt9GolLd1pOx" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG.fCIikfkqqYOlHH_TIHlk" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG.AbG36qnmCWYpbD5kBvXa" height="400" width="400" />
 </p>
 
 ## 项目介绍
