@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2023/12/30 12:59:03
+  最近一次生成时间: 2023/12/30 13:08:05
 </p>
 <p align="center">
-细读离骚还痛饮，饱看修竹何妨肉。
+香炉初上日，瀑水喷成虹。
 </p>
 <p align="center">
-<<满江红·山居即事>> • 辛弃疾
+<<彭蠡湖中望庐山>> • 孟浩然
 </p>
 <p align="center">
-<img src="https://tse3.mm.bing.net/th/id/OIG..bs4gVGKFWrpXhPlHvdN" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG.NjDqH.ytRuC9oqTWjNvZ" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG.KwVLxGtM31TsuqvtbUVv" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG.4cbtRV9.Yys6hl9Ow0DW" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG.kVpMcbw4iDPnXw9qoNVW" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG.RxqmAxZtlyYvmf3bzfnI" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG.1cdvLBg8TvLzj9lPDzRt" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG.G4dKt.d1ikBbSCYPmDfo" height="400" width="400" />
 </p>
 
 ## 项目介绍
