@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2023/12/30 19:15:24
+  最近一次生成时间: 2023/12/30 19:30:37
 </p>
 <p align="center">
-抽刀断水水更流，举杯消愁愁更愁。
+顺风而呼，声非加疾也，而闻者彰。
 </p>
 <p align="center">
-<<宣州谢脁楼饯别校书叔云 / 陪侍御叔华登楼歌>> • 李白
+<<劝学>> • 荀子
 </p>
 <p align="center">
-<img src="https://tse2.mm.bing.net/th/id/OIG.5fsrZFmcD3uhKbaT9H6Q" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG.dderrYZKXoUZcdV80JHw" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG.wv1RgiX5wxvmvnJSLaka" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG.R7bkd.hyPbPAGow2jKsz" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG.dbynAGURMdt5rm7otL3X" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG.VX.00n0_KXu6iPdWYXl_" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG.eCMt3j.MJDGxthbzTQo4" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG.ECDDqv7sqzWkvekvuAZZ" height="400" width="400" />
 </p>
 
 ## 项目介绍
