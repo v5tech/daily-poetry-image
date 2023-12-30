@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2023/12/30 16:56:16
+  最近一次生成时间: 2023/12/30 16:58:09
 </p>
 <p align="center">
-河海不择细流，故能就其深；
+它山之石，可以攻玉。
 </p>
 <p align="center">
-<<谏逐客书>> • 李斯
+<<鹤鸣>> • 佚名
 </p>
 <p align="center">
-<img src="https://tse4.mm.bing.net/th/id/OIG.K.OJU._g.E4kPHpETcj3" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG.1h24DTb6n5d7oDWMIbkC" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG.D4gNbffKZwYCwSpw42Ss" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG.37prZd_H6PfN8BJE4vwk" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG.kghQXjbgZu7mtF6WacZ3" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG.6ysxlnyENlrKmB4zWwV3" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG.tKywZAzMqVTb_3jbd_o2" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG.pxsTnAn9CWA9hrt9twpi" height="400" width="400" />
 </p>
 
 ## 项目介绍
