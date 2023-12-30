@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2023/12/30 16:53:10
+  最近一次生成时间: 2023/12/30 16:54:58
 </p>
 <p align="center">
-人生如逆旅，我亦是行人。
+人生如寄，何事辛苦怨斜晖。
 </p>
 <p align="center">
-<<临江仙·送钱穆父>> • 苏轼
+<<水调歌头·隐括杜牧之齐山诗>> • 朱熹
 </p>
 <p align="center">
-<img src="https://tse1.mm.bing.net/th/id/OIG.wYI8gza1lwN3tQw1NhhF" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG.plJN3O_iHyXtMKkHINGF" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG.GAqnm4s619g6oGGcACsO" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG.PMAU7b3FNQSMwcFWQsi6" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG.anluC.rybDDT4HwvjvRH" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG.wIb4SsnhrtUfiAfgLMNO" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG.H1hCXveuJhnfquHwAt.E" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG.w1lftr_HZAvTPsVz_cC3" height="400" width="400" />
 </p>
 
 ## 项目介绍
