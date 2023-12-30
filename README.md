@@ -1,22 +1,27 @@
 
-## daily-poetry-image
+# daily-poetry-image
 
-最近一次生成时间: 2023/12/30 10:44:44
-
-![Image 1](https://tse1.mm.bing.net/th/id/OIG._3p6xHHKZ_CO8YEX_R7U)
-![Image 2](https://tse1.mm.bing.net/th/id/OIG.BFAEShv6_DwzXu6u2id5)
-![Image 3](https://tse3.mm.bing.net/th/id/OIG.qqar3cSOwdIEa1.3aJS4)
-![Image 4](https://tse2.mm.bing.net/th/id/OIG.NG5pTis8EcZdyXyUZoF0)
-
-镜水夜来秋月，如雪。
-
-荷叶杯·镜水夜来秋月 • 温庭筠
-
-每天一句中国古诗词，生成 AI 图片 Powered by Bing DALL-E-3.
+## 每天一句中国古诗词，生成 AI 图片 Powered by Bing DALL-E-3.
 
 ### 👉🏽 [Base On @liruifengv's daily-poetry-image](https://github.com/liruifengv/daily-poetry-image)
 
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
+
+<p align="right">
+  最近一次生成时间: 2023/12/30 12:50:02
+</p>
+<p align="center">
+新竹高于旧竹枝，全凭老干为扶持。
+</p>
+<p align="center">
+<<新竹>> • 郑燮
+</p>
+<p align="center">
+<img src="https://tse1.mm.bing.net/th/id/OIG.gHEssTtL1E0uXu_ASvuW" height="468" width="468" />
+<img src="https://tse1.mm.bing.net/th/id/OIG.6QqIR7atr7W4IeBWawen" height="468" width="468" />
+<img src="https://tse1.mm.bing.net/th/id/OIG.8m.IIb5HRK6T.6LYsgOh" height="468" width="468" />
+<img src="https://tse4.mm.bing.net/th/id/OIG.cr7p_BpCUrEkMHf4LSSp" height="468" width="468" />
+</p>
 
 ## 项目介绍
 
