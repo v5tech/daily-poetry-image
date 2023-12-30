@@ -115,7 +115,7 @@ async function init() {
             // Update README.md content
 
             // Generate markdown for the images
-            const imagesContent = outputData.images.map((imagePath, index) => `<img src="${imagePath}" height="468" width="468" />`).join("\n");
+            const imagesContent = outputData.images.map((imagePath, index) => `<img src="${imagePath}" height="400" width="400" />`).join("\n");
 
             // Replace CurrentDate、ContentBody、OriginAuthor、ImagesContent with the image markdown and current date
             const newContent = readmeContent
