@@ -93,7 +93,7 @@ export class BingImageCreator {
         let result = "";
         while (true) {
             console.log("Waiting for result...");
-            if (Date.now() - start_wait > 200000) {
+            if (Date.now() - start_wait > 500000) {
                 throw new Error("Timeout");
             }
 
