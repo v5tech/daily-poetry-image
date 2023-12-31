@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2023/12/31 17:58:22
+  最近一次生成时间: 2023/12/31 19:53:24
 </p>
 <p align="center">
-众里寻他千百度。蓦然回首，那人却在，灯火阑珊处。
+非淡泊无以明志，非宁静无以致远。
 </p>
 <p align="center">
-<<青玉案·元夕>> • 辛弃疾
+<<诫子书>> • 诸葛亮
 </p>
 <p align="center">
-<img src="https://tse2.mm.bing.net/th/id/OIG.E.8wb9DSz16kRNHjU_Hp" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG.w105OvvC53PYdTjWbUOe" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG.Y6.T0FdZ3XCPQfEM9P9H" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG.aR71eNyvrgGfj_7lF4ON" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG.NFEmEgh281MXARYRQ8YJ" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG._h0WJk7CF8I5hamNDBIM" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG.7kjfYJ0c88Go8NPBoroz" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG.egYhHrfWINNE1by2GKPl" height="400" width="400" />
 </p>
 
 ## 项目介绍
