@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2023/12/31 19:53:24
+  最近一次生成时间: 2023/12/31 19:57:23
 </p>
 <p align="center">
-非淡泊无以明志，非宁静无以致远。
+白日放歌须纵酒，青春作伴好还乡。
 </p>
 <p align="center">
-<<诫子书>> • 诸葛亮
+<<闻官军收河南河北>> • 杜甫
 </p>
 <p align="center">
-<img src="https://tse2.mm.bing.net/th/id/OIG.NFEmEgh281MXARYRQ8YJ" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG._h0WJk7CF8I5hamNDBIM" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG.7kjfYJ0c88Go8NPBoroz" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG.egYhHrfWINNE1by2GKPl" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG.akCrxgy9chNMkuWenDUX" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG.13V.P7NyfnWOKBEGF2T." height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG.nRTXzC2JFjF0mk2tKrLi" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG.y0e.hDnWgzyNrMXzp_o_" height="400" width="400" />
 </p>
 
 ## 项目介绍
