@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2024/1/1 04:10:57
+  最近一次生成时间: 2024/1/1 08:53:40
 </p>
 <p align="center">
-岁岁金河复玉关，朝朝马策与刀环。
+日照香炉生紫烟，遥看瀑布挂前川。
 </p>
 <p align="center">
-<<征人怨 / 征怨>> • 柳中庸
+<<望庐山瀑布>> • 李白
 </p>
 <p align="center">
-<img src="https://tse1.mm.bing.net/th/id/OIG.7fxRdgmcZ0rBPhnzVRgd" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG.78DmEqCK2A77esveIkFG" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG.K617eQalRgU_kDoJEzP3" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG.8Uo5AYt9oXGdnZfHoz.C" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG.P3sT.R8DL07Y5aXh9B4i" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG.UPbpwywqVmaqyBTIYl9m" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG.0fOT0D0HucdWWXf.bJ1J" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG.BADMmKBfbAhTUVOy53zF" height="400" width="400" />
 </p>
 
 ## 项目介绍
