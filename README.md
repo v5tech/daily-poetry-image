@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2024/1/6 16:13:07
+  最近一次生成时间: 2024/1/6 20:18:42
 </p>
 <p align="center">
-富贵必从勤苦得，男儿须读五车书。
+人老去西风白发，蝶愁来明日黄花。
 </p>
 <p align="center">
-<<柏学士茅屋>> • 杜甫
+<<折桂令·九日>> • 张可久
 </p>
 <p align="center">
-<img src="https://tse1.mm.bing.net/th/id/OIG.NYeRX4Y12xgaSfYhF1Tl" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG.ziaUKx9ZfohjVUyZzwdu" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG.muUv20HhTK.tMfk7RxS." height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG.uH_Xhs3OPSAqMC38t70U" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG.2IN0Cyq5BcPALl1Cw9hN" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG.YxdJx6WtpOd9Kl4IFNC2" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG.jtoP848hQ4USKr1V30z3" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG.TNvr7hTW_K9jUXzzZFdH" height="400" width="400" />
 </p>
 
 ## 项目介绍
