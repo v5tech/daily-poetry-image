@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2024/1/6 12:13:42
+  最近一次生成时间: 2024/1/6 16:13:07
 </p>
 <p align="center">
-日啖荔枝三百颗，不辞长作岭南人。
+富贵必从勤苦得，男儿须读五车书。
 </p>
 <p align="center">
-<<惠州一绝>> • 苏轼
+<<柏学士茅屋>> • 杜甫
 </p>
 <p align="center">
-<img src="https://tse3.mm.bing.net/th/id/OIG.kP5HrqK2RkXjz7K1S.5w" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG.QZH5Pl2BV4AQywzWbgAZ" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG.LoKYZK9_RNqNQybJyEBq" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG.SwmobhS3ojvBrcx76Pku" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG.NYeRX4Y12xgaSfYhF1Tl" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG.ziaUKx9ZfohjVUyZzwdu" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG.muUv20HhTK.tMfk7RxS." height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG.uH_Xhs3OPSAqMC38t70U" height="400" width="400" />
 </p>
 
 ## 项目介绍
