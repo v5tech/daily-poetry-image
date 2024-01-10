@@ -1,0 +1,90 @@
+import requests
+import json
+import os
+import boto3
+
+dir = os.path.join(os.getcwd(), 'website/src/content/images')
+
+
+# 上传词云文件到s3存储桶
+def upload_s3(key, img_content, s3_config):
+    s3 = boto3.resource(service_name='s3',
+                        endpoint_url=s3_config.get('endpoint_url'),
+                        aws_access_key_id=s3_config.get('aws_access_key_id'),
+                        aws_secret_access_key=s3_config.get('aws_secret_access_key')
+                        )
+    obj = s3.Bucket(s3_config.get('bucket_name')) \
+        .put_object(Key=key, Body=img_content, ContentType="image/png", ACL="public-read")
+    response = {attr: getattr(obj, attr) for attr in ['e_tag', 'version_id']}
+    return f'{s3_config.get("img_access_url")}/{key}?versionId={response["version_id"]}'
+
+
+# 查找未备份文件列表
+def find_no_backup_files(directory):
+    # 获取目录下所有json文件
+    file_list = [file for file in os.listdir(directory) if file.endswith('.json')]
+    # 过滤掉已经备份过的文件
+    no_backup_files = [file for file in file_list if not os.path.exists(os.path.join(directory, file + '.bak'))]
+    # 按文件名排序
+    return sorted(no_backup_files)
+
+
+# 检查s3存储桶环境变量
+def s3_env_config():
+    env_variables = [
+        'ENDPOINT_URL',
+        'IMG_ACCESS_URL',
+        'AWS_ACCESS_KEY_ID',
+        'AWS_SECRET_ACCESS_KEY',
+        'BUCKET_NAME'
+    ]
+    env_config = {}
+    for variable in env_variables:
+        env_value = os.environ.get(variable)
+        if not env_value:
+            print(f'请设置 {variable} 环境变量')
+            return None
+        env_config[variable.lower()] = env_value
+    return env_config
+
+
+if __name__ == '__main__':
+    s3_config = s3_env_config()
+    if not s3_config:
+        # 程序异常退出
+        exit(1)
+    no_backup_files = find_no_backup_files(dir)
+    if len(no_backup_files) == 0:
+        print("没有需要备份的文件")
+        # 程序正常退出
+        exit(0)
+    print("检测到以下文件没有进行备份:")
+    for file in no_backup_files:
+        print(file)
+    for file in no_backup_files:
+        print("\n开始解析{}".format(file))
+        with open(os.path.join(dir, file), 'r', encoding='utf-8') as f:
+            # 读取json文件
+            data = json.loads(f.read())
+            target = []
+            for image in data['images']:
+                # 获取图片名称
+                image_name = os.path.basename(image)
+                print("开始下载{}".format(image_name))
+                resp = requests.get(image)
+                if resp.status_code == 200:
+                    # 上传图片到s3
+                    key = '{}/{}'.format(data['localImagesPath'], image_name)
+                    upload_url = upload_s3(key, resp.content, s3_config)
+                    print("上传{}完毕".format(image_name))
+                    target.append(upload_url)
+                    print("{} => {}".format(image, upload_url))
+            # 替换data['images']为s3地址
+            data['images'] = target
+            # 备份原文件
+            os.rename(os.path.join(dir, file), os.path.join(dir, '{}.bak'.format(file)))
+            print('备份{}完毕'.format(file))
+            # 保存json文件
+            with open(os.path.join(dir, file), 'w', encoding='utf-8') as new_f:
+                json.dump(data, new_f, ensure_ascii=False)
+        print('==================保存{}完毕==============='.format(file))

@@ -38,6 +38,25 @@ jobs:
             - name: Create Image
               run: pnpm run start --cookie "${{ secrets.BING_COOKIE }}"
 
+            - name: Set up Python
+              uses: actions/setup-python@v2
+              with:
+                python-version: '3.10'
+
+            - name: Install dependencies
+              run: |
+                python -m pip install --upgrade pip
+                if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+            - name: Run
+              env:
+                ENDPOINT_URL: ${{ secrets.ENDPOINT_URL }}
+                IMG_ACCESS_URL: ${{ secrets.IMG_ACCESS_URL }}
+                AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+                AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+                BUCKET_NAME: ${{ secrets.BUCKET_NAME }}
+              run: python3 main.py
+
             - name: Push New Pic
               run: |
                   git config --local user.email "sxyx2008@163.com"
