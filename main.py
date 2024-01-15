@@ -3,10 +3,15 @@ import json
 import os
 import boto3
 
-dir = os.path.join(os.getcwd(), 'website/src/content/images')
+# 目标文件目录
+dir_path = os.path.join(os.getcwd(), 'website/src/content/images')
+# 备份记录文件
+backup_txt_path = os.path.join(dir_path, 'backup.txt')
+# 备份文件列表
+backup_txt_files = []
 
 
-# 上传词云文件到s3存储桶
+# 上传图片到s3
 def upload_s3(key, img_content, s3_config):
     s3 = boto3.resource(service_name='s3',
                         endpoint_url=s3_config.get('endpoint_url'),
@@ -19,14 +24,11 @@ def upload_s3(key, img_content, s3_config):
     return f'{s3_config.get("img_access_url")}/{key}?versionId={response["version_id"]}'
 
 
-# 查找未备份文件列表
-def find_no_backup_files(directory):
-    # 获取目录下所有json文件
-    file_list = [file for file in os.listdir(directory) if file.endswith('.json')]
-    # 过滤掉已经备份过的文件
-    no_backup_files = [file for file in file_list if not os.path.exists(os.path.join(directory, file + '.bak'))]
-    # 按文件名排序
-    return sorted(no_backup_files)
+# 获取未备份文件列表
+def find_not_backup_files():
+    with open(backup_txt_path, mode='r', encoding='utf-8') as f:
+        backup_txt_files = f.read().splitlines()
+    return [file for file in sorted(os.listdir(dir_path)) if file.endswith('.json') and file not in backup_txt_files]
 
 
 # 检查s3存储桶环境变量
@@ -53,17 +55,17 @@ if __name__ == '__main__':
     if not s3_config:
         # 程序异常退出
         exit(1)
-    no_backup_files = find_no_backup_files(dir)
-    if len(no_backup_files) == 0:
+    not_backup_files = find_not_backup_files()
+    if len(not_backup_files) == 0:
         print("没有需要备份的文件")
         # 程序正常退出
         exit(0)
     print("检测到以下文件没有进行备份:")
-    for file in no_backup_files:
+    for file in not_backup_files:
         print(file)
-    for file in no_backup_files:
+    for file in not_backup_files:
         print("\n开始解析{}".format(file))
-        with open(os.path.join(dir, file), 'r', encoding='utf-8') as f:
+        with open(os.path.join(dir_path, file), 'r', encoding='utf-8') as f:
             # 读取json文件
             data = json.loads(f.read())
             target = []
@@ -79,12 +81,22 @@ if __name__ == '__main__':
                     print("上传{}完毕".format(image_name))
                     target.append(upload_url)
                     print("{} => {}".format(image, upload_url))
-            # 替换data['images']为s3地址
+
+            # 替换data['images']为新的s3地址
             data['images'] = target
-            # 备份原文件
-            os.rename(os.path.join(dir, file), os.path.join(dir, '{}.bak'.format(file)))
-            print('备份{}完毕'.format(file))
+            # # 备份原文件
+            # os.rename(os.path.join(dir, file), os.path.join(dir, '{}.bak'.format(file)))
+            # print('备份{}完毕'.format(file))
+
             # 保存json文件
-            with open(os.path.join(dir, file), 'w', encoding='utf-8') as new_f:
+            with open(os.path.join(dir_path, file), 'w', encoding='utf-8') as new_f:
                 json.dump(data, new_f, ensure_ascii=False)
+
         print('==================保存{}完毕==============='.format(file))
+
+        # 添加该文件到备份记录列表中
+        backup_txt_files.append(file)
+
+    with open(backup_txt_path, mode='w', encoding='utf-8') as f:
+        f.write('\n'.join(backup_txt_files))
+    print('==================更新备份记录文件完毕===============')
