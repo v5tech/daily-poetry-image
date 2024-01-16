@@ -7,8 +7,6 @@ import boto3
 dir_path = os.path.join(os.getcwd(), 'website/src/content/images')
 # 备份记录文件
 backup_txt_path = os.path.join(dir_path, 'backup.txt')
-# 备份文件列表
-backup_txt_files = []
 
 
 # 上传图片到s3
@@ -24,11 +22,15 @@ def upload_s3(key, img_content, s3_config):
     return f'{s3_config.get("img_access_url")}/{key}?versionId={response["version_id"]}'
 
 
-# 获取未备份文件列表
-def find_not_backup_files():
+# 解析备份文件列表
+def parse_backup_files():
     with open(backup_txt_path, mode='r', encoding='utf-8') as f:
-        backup_txt_files = f.read().splitlines()
-    return [file for file in sorted(os.listdir(dir_path)) if file.endswith('.json') and file not in backup_txt_files]
+        return f.read().splitlines()
+
+
+# 获取未备份文件列表
+def find_not_backup_files(backup_files_list):
+    return [file for file in sorted(os.listdir(dir_path)) if file.endswith('.json') and file not in backup_files_list]
 
 
 # 检查s3存储桶环境变量
@@ -55,15 +57,18 @@ if __name__ == '__main__':
     if not s3_config:
         # 程序异常退出
         exit(1)
-    not_backup_files = find_not_backup_files()
-    if len(not_backup_files) == 0:
+    print("==================解析备份文件===============")
+    backup_files_list = parse_backup_files()
+    print("==================获取未备份的文件===============")
+    not_backup_files_list = find_not_backup_files(backup_files_list)
+    if len(not_backup_files_list) == 0:
         print("没有需要备份的文件")
         # 程序正常退出
         exit(0)
     print("检测到以下文件没有进行备份:")
-    for file in not_backup_files:
+    for file in not_backup_files_list:
         print(file)
-    for file in not_backup_files:
+    for file in not_backup_files_list:
         print("\n开始解析{}".format(file))
         with open(os.path.join(dir_path, file), 'r', encoding='utf-8') as f:
             # 读取json文件
@@ -84,6 +89,7 @@ if __name__ == '__main__':
 
             # 替换data['images']为新的s3地址
             data['images'] = target
+
             # # 备份原文件
             # os.rename(os.path.join(dir, file), os.path.join(dir, '{}.bak'.format(file)))
             # print('备份{}完毕'.format(file))
@@ -95,8 +101,8 @@ if __name__ == '__main__':
         print('==================保存{}完毕==============='.format(file))
 
         # 添加该文件到备份记录列表中
-        backup_txt_files.append(file)
+        backup_files_list.append(file)
 
     with open(backup_txt_path, mode='w', encoding='utf-8') as f:
-        f.write('\n'.join(backup_txt_files))
+        f.write('\n'.join(backup_files_list))
     print('==================更新备份记录文件完毕===============')
