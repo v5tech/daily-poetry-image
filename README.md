@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2024/1/16 16:19:29
+  最近一次生成时间: 2024/1/17 00:21:14
 </p>
 <p align="center">
-人生自古谁无死？留取丹心照汗青。
+书当快意读易尽，客有可人期不来。
 </p>
 <p align="center">
-<<过零丁洋>> • 文天祥
+<<绝句·书当快意读易尽>> • 陈师道
 </p>
 <p align="center">
-<img src="https://tse4.mm.bing.net/th/id/OIG.vSgwjztyQWGW8CZ98Un3" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG.y9EiEG9qlRnUHkyaaT0." height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG.mIDZhcObUqTJolTxZ4nB" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG.f3NaKbN.Ma0xDdmL75O." height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG.s8ItKCJCoSiWzLuvC7O5" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG.PXDgIKs.0hnYdmHAP74H" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG.Q50Hse1dC0T91UM0DCEa" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG.j6SjbR5pwvSj7XMyesO5" height="400" width="400" />
 </p>
 
 ## 项目介绍
