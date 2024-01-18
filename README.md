@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2024/1/18 15:00:35
+  最近一次生成时间: 2024/1/18 15:45:16
 </p>
 <p align="center">
-酒困路长惟欲睡，日高人渴漫思茶。
+西登香炉峰，南见瀑布水。
 </p>
 <p align="center">
-<<浣溪沙·簌簌衣巾落枣花>> • 苏轼
+<<望庐山瀑布水二首>> • 李白
 </p>
 <p align="center">
-<img src="https://tse2.mm.bing.net/th/id/OIG.9bPxSBDJ2KUr1DjAUMbn" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG.r5btKTZIpPDVK6wiRaw6" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG.OiyjF3tdX8AMWvoxKbwA" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG.sKvZ2hRHuAYqe03GUoLk" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG.Wn6BFf9b7Iadc3PGCMAR" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG.1uKUEKHBjyrTq.LenLUf" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG.yAOx9M0w6h7I0OXdK5aK" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG.H5W5ev9TFB0nfWk_lzze" height="400" width="400" />
 </p>
 
 ## 项目介绍
