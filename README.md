@@ -8,19 +8,17 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2024/1/18 15:45:16
+  最近一次生成时间: 2024/1/18 15:58:40
 </p>
 <p align="center">
-西登香炉峰，南见瀑布水。
+此日六军同驻马，当时七夕笑牵牛。
 </p>
 <p align="center">
-<<望庐山瀑布水二首>> • 李白
+<<马嵬·其二>> • 李商隐
 </p>
 <p align="center">
-<img src="https://tse1.mm.bing.net/th/id/OIG.Wn6BFf9b7Iadc3PGCMAR" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG.1uKUEKHBjyrTq.LenLUf" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG.yAOx9M0w6h7I0OXdK5aK" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG.H5W5ev9TFB0nfWk_lzze" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG.jOaOmvqiemNo9VB9rIzF" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG.95Ezr.o_Kf.fjLufa3wu" height="400" width="400" />
 </p>
 
 ## 项目介绍
