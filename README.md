@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2024/1/18 14:50:48
+  最近一次生成时间: 2024/1/18 15:00:35
 </p>
 <p align="center">
-野旷天清无战声，四万义军同日死。
+酒困路长惟欲睡，日高人渴漫思茶。
 </p>
 <p align="center">
-<<悲陈陶>> • 杜甫
+<<浣溪沙·簌簌衣巾落枣花>> • 苏轼
 </p>
 <p align="center">
-<img src="https://tse3.mm.bing.net/th/id/OIG.gxAJKH4oLeS860YaRs_M" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG.O7gqhTRWAzAigCdFNJTy" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG.8BkH5jOCsNKFRQES735Z" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG.sdez3xo5GeTv2G0Cg5Vy" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG.9bPxSBDJ2KUr1DjAUMbn" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG.r5btKTZIpPDVK6wiRaw6" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG.OiyjF3tdX8AMWvoxKbwA" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG.sKvZ2hRHuAYqe03GUoLk" height="400" width="400" />
 </p>
 
 ## 项目介绍
