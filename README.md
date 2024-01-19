@@ -8,19 +8,17 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2024/1/19 08:55:05
+  最近一次生成时间: 2024/1/19 12:16:47
 </p>
 <p align="center">
-军歌应唱大刀环，誓灭胡奴出玉关。
+故园今夕是元宵，独向蛮村坐寂寥。
 </p>
 <p align="center">
-<<出塞>> • 徐锡麟
+<<元夕二首>> • 王守仁
 </p>
 <p align="center">
-<img src="https://tse1.mm.bing.net/th/id/OIG.0bUbUHvJetQ0ry7gQWCi" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG.0KWYJxZGh_oHT_WRRr0u" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG.tOOHcg.Zp_G3lBdWyvSw" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG.j..y0Nx_sGtNZlfHpmZr" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG.PsD2oJEKhRrG4ugkDOGT" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG.oEaEzYlXxvz.NQB7vhZR" height="400" width="400" />
 </p>
 
 ## 项目介绍
