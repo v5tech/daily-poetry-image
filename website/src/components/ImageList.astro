@@ -8,7 +8,7 @@ const sortedImages = images.sort(
       (a, b) =>
         Math.floor(new Date(b.data.date).getTime() / 1000) -
         Math.floor(new Date(a.data.date).getTime() / 1000)
-    );
+    ).slice(0, 10);
 
 ---
 
