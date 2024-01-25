@@ -13,6 +13,6 @@ export async function GET() {
             title: image.data.content,
             description: `今天诗词：${image.data.content}`,
             pubDate: new Date(image.data.date),
-        })).slice(0, 30),
+        })).slice(0, 15),
     });
 }
