@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2024/1/25 16:15:44
+  最近一次生成时间: 2024/1/25 16:39:43
 </p>
 <p align="center">
-江春不肯留归客，草色青青送马蹄。
+酌酒以自宽，举杯断绝歌路难。
 </p>
 <p align="center">
-<<送李判官之润州行营>> • 刘长卿
+<<拟行路难·其四>> • 鲍照
 </p>
 <p align="center">
-<img src="https://tse2.mm.bing.net/th/id/OIG.kedroxvb2f1zGAYhHSHD" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG.96D98YahcoFZGzkqPdIK" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG.w.9mF3hUM02tEhAoskQc" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG.CXWvKWbg192N0DicUNJf" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG.BDtfFu11CV_NmhOnSiD3" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG..zqH26QMc1rzy3oEes2m" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG.fgg8Qi7V4XclzQu532bd" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG.hezJBeodoH84q4F05.19" height="400" width="400" />
 </p>
 
 ## 项目介绍
