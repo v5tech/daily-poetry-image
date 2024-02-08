@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2024/2/8 12:13:47
+  最近一次生成时间: 2024/2/8 13:32:34
 </p>
 <p align="center">
-陪都歌舞迎佳节，遥祝延安景物华。
+爆竹声中一岁除，春风送暖入屠苏。
 </p>
 <p align="center">
-<<元旦口占用柳亚子怀人韵>> • 董必武
+<<元日>> • 王安石
 </p>
 <p align="center">
-<img src="https://tse1.mm.bing.net/th/id/OIG1.aElsY4v_6LkPvX3jv83v" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG1.kPZESmCWlXHFadScZy.U" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG1.HVvz5_X4TV1kGCVaQP8G" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG1.wewky.IrhgwitPoMmyQP" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG3.v48z5LWo_YXOd7vDTtkf" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG3.U0oqtsFML1OSjNUiVI.6" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG3.lUWkq5rsJ3G_Xa76ZF7v" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG3.SIcbHmjM59pbwA6tDdox" height="400" width="400" />
 </p>
 
 ## 项目介绍
