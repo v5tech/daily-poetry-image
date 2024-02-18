@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2024/2/18 15:33:29
+  最近一次生成时间: 2024/2/18 16:13:47
 </p>
 <p align="center">
-借问酒家何处有？牧童遥指杏花村。
+因依老宿发心初，半学修心半读书。
 </p>
 <p align="center">
-<<清明>> • 杜牧
+<<寄旧山僧>> • 王建
 </p>
 <p align="center">
-<img src="https://tse1.mm.bing.net/th/id/OIG2.46UeNC9uHbSqgnWpzp_a" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG2.uEWRsCZ9QwzcyvVGLTfH" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG2.wlGbiA6MBunRxdK_jKeq" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG2.wGIrPehViiSvEmmj9LJd" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG1.ykGmh_y2DQpSwx54FRNR" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG1.Jw6cQE00G2KrS._RDIbZ" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG1.BPJiyabmLi5kBq_rgnCF" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG1.dpS1FyAkad3yNAKXzVfC" height="400" width="400" />
 </p>
 
 ## 项目介绍
