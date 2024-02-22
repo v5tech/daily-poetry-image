@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2024/2/22 20:19:44
+  最近一次生成时间: 2024/2/23 00:17:02
 </p>
 <p align="center">
-欲黄昏。雨打梨花深闭门。
+大风起兮云飞扬。威加海内兮归故乡。
 </p>
 <p align="center">
-<<忆王孙·春词>> • 李重元
+<<大风歌>> • 刘邦
 </p>
 <p align="center">
-<img src="https://tse2.mm.bing.net/th/id/OIG4.beWlGAnP6b7Gf3W8Nkv5" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG4.56YPoDiTvJlVsoq86BCy" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG4.dQxeRAOJDMX_Ycthq_Pz" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG4.Ad2AssIs2HEsZ_LiwnHK" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG2.XGcp9aw8d2OlGunHfh4D" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG2.vskXKqEbS54SwDHWiMRX" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG2.GiOSW8NwjCzagv78OVdB" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG2.saopbsQV0FeaxbZBDf.C" height="400" width="400" />
 </p>
 
 ## 项目介绍
