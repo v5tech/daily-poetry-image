@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2024/2/25 00:13:09
+  最近一次生成时间: 2024/2/25 04:10:53
 </p>
 <p align="center">
-惊鸟去无际，寒蛩鸣我傍。
+香炉初上日，瀑水喷成虹。
 </p>
 <p align="center">
-<<楚江怀古三首>> • 马戴
+<<彭蠡湖中望庐山>> • 孟浩然
 </p>
 <p align="center">
-<img src="https://tse3.mm.bing.net/th/id/OIG4.J4Kf3kgom2NfYGiZ9O2b" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG4.9.j7PP3LQBjXDepKv2Xz" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG4.APN6SzAVqBAUVwXJSSQv" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG4.4kMW7VTfj_OvbemIwixD" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG4.4lqJQa6GMEfg.Ljgw71B" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG4.MVd0uIKZE0BPBsOHyjGJ" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG4.eyflzJXfnLJrnFx5_Bh2" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG4.zAFUqHamdBeK0GQEUOeI" height="400" width="400" />
 </p>
 
 ## 项目介绍
