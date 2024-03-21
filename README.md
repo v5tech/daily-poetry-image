@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2024/3/21 20:19:48
+  最近一次生成时间: 2024/3/22 00:17:07
 </p>
 <p align="center">
-老农家贫在山住，耕种山田三四亩。
+泰山不要欺毫末，颜子无心羡老彭。
 </p>
 <p align="center">
-<<野老歌 / 山农词>> • 张籍
+<<放言五首·其五>> • 白居易
 </p>
 <p align="center">
-<img src="https://tse1.mm.bing.net/th/id/OIG1.X2K5a0qh1fI4eTINOWmw" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG1.DVax090P..XE24U.XK9_" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG1.iXLCFU62FhQsVzmykVGt" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG1.ELFsQV4qpHhTHaocSR.x" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG1.DMU_IwLsiOrfP7RqqpeU" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG1.NoaZbyU7pIHg1qAaBXvT" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG1.ObCQW4kDIxuKVctE9zYt" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG1.nRqFUoAWbtWiFC0OiAum" height="400" width="400" />
 </p>
 
 ## 项目介绍
