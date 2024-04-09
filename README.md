@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2024/4/9 20:21:24
+  最近一次生成时间: 2024/4/10 00:16:24
 </p>
 <p align="center">
-造化钟神秀，阴阳割昏晓。
+客自长安来，还归长安去。
 </p>
 <p align="center">
-<<望岳>> • 杜甫
+<<金乡送韦八之西京>> • 李白
 </p>
 <p align="center">
-<img src="https://tse1.mm.bing.net/th/id/OIG2.5pqiEvpTt5FEQPRsa9kJ" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG2.m0hjNbbjTzNCA3cY5msB" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG2.gNw58YC_pul6dDVaUwVZ" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG2.Q1q8Uj8wjZhxA1HiQdv8" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG2.R0jmbtk0apDLUk8sjn_Z" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG2.uXX9wTsGoDJzf._LHFmo" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG2.x1uxDFDmXrUCs6nuIiJJ" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG2.cna9FwB3moSkWqeq6Ybi" height="400" width="400" />
 </p>
 
 ## 项目介绍
