@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2024/5/5 12:15:18
+  最近一次生成时间: 2024/5/5 16:13:44
 </p>
 <p align="center">
-菩提本无树，明镜亦非台。
+日啖荔枝三百颗，不辞长作岭南人。
 </p>
 <p align="center">
-<<菩提偈>> • 惠能
+<<惠州一绝>> • 苏轼
 </p>
 <p align="center">
-<img src="https://tse2.mm.bing.net/th/id/OIG1.eEDVlM9fO7ENiM_lC0YU" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG1.vP_06hQEnHPEH1pFWBmI" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG1.AF6YVYdKdnO14ISvAsB5" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG1.hh4Vub.cusiPGC2BsgNt" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG1.fq3EAt9C2klcLk71AJlU" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG1.RuAfzGPk5jDrHuBrQKpe" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG1.QZFG_cTy6DCSkJQUDvX7" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG1.m03yqTQS3qh0pDS2qWck" height="400" width="400" />
 </p>
 
 ## 项目介绍
