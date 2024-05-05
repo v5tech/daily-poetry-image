@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2024/5/5 08:56:04
+  最近一次生成时间: 2024/5/5 12:15:18
 </p>
 <p align="center">
-秋色渐将晚，霜信报黄花。
+菩提本无树，明镜亦非台。
 </p>
 <p align="center">
-<<水调歌头·秋色渐将晚>> • 叶梦得
+<<菩提偈>> • 惠能
 </p>
 <p align="center">
-<img src="https://tse2.mm.bing.net/th/id/OIG1.usWKQzerB8irWZQJ0.yW" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG1.AMxvs8LeQhLfxSHs.skE" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG1.mSLChWDybmgnAvPW7qX1" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG1.o6hlohsUZcKozIl07J_Z" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG1.eEDVlM9fO7ENiM_lC0YU" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG1.vP_06hQEnHPEH1pFWBmI" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG1.AF6YVYdKdnO14ISvAsB5" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG1.hh4Vub.cusiPGC2BsgNt" height="400" width="400" />
 </p>
 
 ## 项目介绍
