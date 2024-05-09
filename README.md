@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2024/5/9 08:53:05
+  最近一次生成时间: 2024/5/9 12:16:45
 </p>
 <p align="center">
-最爱湖东行不足，绿杨阴里白沙堤。
+朝辞白帝彩云间，千里江陵一日还。
 </p>
 <p align="center">
-<<钱塘湖春行>> • 白居易
+<<早发白帝城 / 白帝下江陵>> • 李白
 </p>
 <p align="center">
-<img src="https://tse1.mm.bing.net/th/id/OIG2.zBDNOwTYP9xOrvOrhZZA" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG2.5HN8OlJfhTVkhOjhdCnE" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG2.1Ugy8fmg7kEqaDUpNQvv" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG2.sg_kXwxD5jYNUvmowRQ1" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG2.IurR9g1CYHof7Rtq4UCa" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG2.v.h7iscjJkIkdzEjfPL6" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG2.uTh708RRfz6sP6bf0GYR" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG2.BWXYwZtPGIvZSYEjq4su" height="400" width="400" />
 </p>
 
 ## 项目介绍
