@@ -8,19 +8,18 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2024/5/9 14:15:37
+  最近一次生成时间: 2024/5/9 16:15:22
 </p>
 <p align="center">
-笑绿鬟邻女，倚窗犹唱，夕阳西下。
+世间珍果更无加，玉雪肌肤罩绛纱。
 </p>
 <p align="center">
-<<女冠子·元夕>> • 蒋捷
+<<咏荔枝>> • 丘浚
 </p>
 <p align="center">
-<img src="https://tse1.mm.bing.net/th/id/OIG2._jeBABg1SIvmZVy7DkoO" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG2.irzwWxDooYee86BHZcTe" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG2.90jMyREAgfQncPTGfc8B" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG2.mEQFHQMmXDapbMgt0vgy" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG1.PqGg1dhP.ewVx76_.AZ3" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG1.6RGJ.nw_tlO7U7ixLVBy" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG1.9UE8.8X46mS6MA95wBjQ" height="400" width="400" />
 </p>
 
 ## 项目介绍
