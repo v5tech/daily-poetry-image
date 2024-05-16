@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2024/5/16 20:22:25
+  最近一次生成时间: 2024/5/17 00:14:42
 </p>
 <p align="center">
-纷披乍依迥，掣曳或随风。
+少壮不努力，老大徒伤悲！
 </p>
 <p align="center">
-<<咏兴国寺佛殿前幡>> • 李世民
+<<长歌行>> • 佚名
 </p>
 <p align="center">
-<img src="https://tse4.mm.bing.net/th/id/OIG3.ZVlyC4d7FnZCYuc5zNa0" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG3.QoKI9QP4eDchf9xLbbfI" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG3.bvMFFVt1yceLCCnMPJbo" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG3.MGLKMiZ23GKbdFFwRY_M" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG1.f11WgxMTe.BRqs7DG0VR" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG1.dDXx4ylcW5tciDGfdJdV" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG1.4_P7EqgjP7_UKb5TorbB" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG1.uFYqdkFhfzpsjzLrlcrb" height="400" width="400" />
 </p>
 
 ## 项目介绍
