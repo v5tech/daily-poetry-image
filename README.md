@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2024/5/19 16:14:00
+  最近一次生成时间: 2024/5/19 20:20:37
 </p>
 <p align="center">
-滚滚长江东逝水，浪花淘尽英雄。
+香炉初上日，瀑水喷成虹。
 </p>
 <p align="center">
-<<临江仙·滚滚长江东逝水>> • 杨慎
+<<彭蠡湖中望庐山>> • 孟浩然
 </p>
 <p align="center">
-<img src="https://tse1.mm.bing.net/th/id/OIG1.tmhGQhCe2BZXsqXvo2UU" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG1.noAutuOyUaJIYtqFOiUs" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG1.xZSEvKBYEG0D9bRspv0B" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG1.zdnuuWy6Y8Kp.5uwVM11" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG1.zh3dxP8NXctX8WhFRC2Z" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG1.gsfnX57sLpbCN41KdYU_" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG1.x5qvko3etw81zXO6pznH" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG1.agUZ6gVYUPOSREqK_tKJ" height="400" width="400" />
 </p>
 
 ## 项目介绍
