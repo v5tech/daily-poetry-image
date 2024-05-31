@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2024/6/1 00:14:50
+  最近一次生成时间: 2024/6/1 04:12:46
 </p>
 <p align="center">
-卧龙跃马终黄土，人事音书漫寂寥。
+等闲识得东风面，万紫千红总是春。
 </p>
 <p align="center">
-<<阁夜>> • 杜甫
+<<春日>> • 朱熹
 </p>
 <p align="center">
-<img src="https://tse2.mm.bing.net/th/id/OIG2.rNEu7OQ1zal5S0sMnxji" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG2.ZEnHMF9zLv2fPtyGaILi" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG2.Lgg5y.iXJ9YDB7nKZJ_q" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG2.Ka.RE6D09uSaGRHVVIxv" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG2.uAUfnzPIJF7ffCAVLTq1" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG2.Scc.BZN_LT8Nk2VAo1io" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG2.AiNPhwcXhfRraqmBQsIi" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG2.SIvV8cQSoIsx3GRQX1L5" height="400" width="400" />
 </p>
 
 ## 项目介绍
