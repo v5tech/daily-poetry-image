@@ -8,19 +8,17 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2024/6/1 12:14:14
+  最近一次生成时间: 2024/6/1 16:14:46
 </p>
 <p align="center">
-唯有长江水，无语东流。
+不积小流，无以成江海。
 </p>
 <p align="center">
-<<八声甘州·对潇潇暮雨洒江天>> • 柳永
+<<劝学>> • 荀子
 </p>
 <p align="center">
-<img src="https://tse2.mm.bing.net/th/id/OIG2.A7Q3YFtwCThOzNS4s1EL" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG2.2FAYdopomf.HeO33S1hm" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG2.dtj.pgGn_zJctbUYXT0Q" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG2..IYJqEVGy.J2cYtznpdZ" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG2.rS8bJXjoGWrTkYS3txbW" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG2.z4JzSDCvecrIS3FJ01Ku" height="400" width="400" />
 </p>
 
 ## 项目介绍
