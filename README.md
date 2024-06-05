@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2024/6/6 00:15:44
+  最近一次生成时间: 2024/6/6 04:13:29
 </p>
 <p align="center">
-儿大诗书女丝麻，公但读书煮春茶。
+春风又绿江南岸，明月何时照我还？
 </p>
 <p align="center">
-<<送王郎>> • 黄庭坚
+<<泊船瓜洲>> • 王安石
 </p>
 <p align="center">
-<img src="https://tse4.mm.bing.net/th/id/OIG4.K1_l6q_MYKMZZft1Mg60" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG4.mWTRHSBFJ9oSnR_ypzYg" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG4.WWRWH3E8qBaB_Rf3zrR7" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG4.ResAG85yvdoiuwF3PDZe" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG3.5fKrd90F2YGfPI1XdwiD" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG3.FHahWr6ByAgOjSK4pIBm" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG3.OCScmseqIxTcKTR70xob" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG3.11DsIF4BhL0GqsA4aEuF" height="400" width="400" />
 </p>
 
 ## 项目介绍
