@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2024/6/10 00:13:48
+  最近一次生成时间: 2024/6/10 04:13:18
 </p>
 <p align="center">
-紫艳半开篱菊静，红衣落尽渚莲愁。
+去来江口守空船，绕船月明江水寒。
 </p>
 <p align="center">
-<<长安晚秋 / 秋望 / 秋夕>> • 赵嘏
+<<琵琶行 / 琵琶引>> • 白居易
 </p>
 <p align="center">
-<img src="https://tse4.mm.bing.net/th/id/OIG1.NZp8aQz4.OmDa8AYwT.o" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG1.O2U1fgTgNaybiYflz65L" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG1.VeE5jRbZUym0U2Q.X7Qd" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG1.0qi5o_LxYJ3cuEMNSQIl" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG3.LXIDydptZ.fG3yas7QFx" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG3.7EMfIDERWuVN4eBx7pLR" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG3.Ip_mGN6zvwJTodkEZiSS" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG3.ocJANESFJmzvG3k741aK" height="400" width="400" />
 </p>
 
 ## 项目介绍
