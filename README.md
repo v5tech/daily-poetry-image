@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2024/6/9 20:21:47
+  最近一次生成时间: 2024/6/10 00:13:48
 </p>
 <p align="center">
-采得百花成蜜后，为谁辛苦为谁甜。
+紫艳半开篱菊静，红衣落尽渚莲愁。
 </p>
 <p align="center">
-<<蜂>> • 罗隐
+<<长安晚秋 / 秋望 / 秋夕>> • 赵嘏
 </p>
 <p align="center">
-<img src="https://tse2.mm.bing.net/th/id/OIG1.OC5oldz0xxKMqNJ6yyR4" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG1.TI7kEglpTKfMd26tfklv" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG1.SqPZIGFrvqRfu0PGuYyX" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG1.qyEZhBo5LPgnadFrh6u6" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG1.NZp8aQz4.OmDa8AYwT.o" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG1.O2U1fgTgNaybiYflz65L" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG1.VeE5jRbZUym0U2Q.X7Qd" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG1.0qi5o_LxYJ3cuEMNSQIl" height="400" width="400" />
 </p>
 
 ## 项目介绍
