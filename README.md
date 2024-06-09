@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2024/6/9 09:00:43
+  最近一次生成时间: 2024/6/9 12:15:11
 </p>
 <p align="center">
-东南第一名州，西湖自古多佳丽。
+缀玉联珠六十年，谁教冥路作诗仙。
 </p>
 <p align="center">
-<<水龙吟·西湖怀古>> • 陈德武
+<<吊白居易>> • 李忱
 </p>
 <p align="center">
-<img src="https://tse1.mm.bing.net/th/id/OIG2.c4X8LHmtFs5PJLjMvfeG" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG2.Fwb7BiDYJ81E.cGFC7zj" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG2.Z7PKS9NxMPCv39cqj91P" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG2.WorND7F6c3XoHGWfDOuc" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG1.XEf9zVtlNkhye8TAC49Z" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG1.pDOIbQeu4axgPSKdd9BF" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG1.Ri49olFPIp2uepKWmiwN" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG1.8Wmeu4Y58oY.NRVtU.GH" height="400" width="400" />
 </p>
 
 ## 项目介绍
