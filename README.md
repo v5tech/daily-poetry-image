@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2024/6/10 04:13:18
+  最近一次生成时间: 2024/6/10 08:57:47
 </p>
 <p align="center">
-去来江口守空船，绕船月明江水寒。
+月明星稀，乌鹊南飞。绕树三匝，何枝可依？
 </p>
 <p align="center">
-<<琵琶行 / 琵琶引>> • 白居易
+<<短歌行>> • 曹操
 </p>
 <p align="center">
-<img src="https://tse2.mm.bing.net/th/id/OIG3.LXIDydptZ.fG3yas7QFx" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG3.7EMfIDERWuVN4eBx7pLR" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG3.Ip_mGN6zvwJTodkEZiSS" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG3.ocJANESFJmzvG3k741aK" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG2.pjMd7bLgGCD59W75Bdes" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG2.2_4xfwWZl9uDX_Hj0DDL" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG2.H2WcRIeZdBhV4IBLE.z1" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG2.lJs4VGrijOuQuPnt5AiP" height="400" width="400" />
 </p>
 
 ## 项目介绍
