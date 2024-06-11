@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2024/6/11 20:23:49
+  最近一次生成时间: 2024/6/12 00:16:00
 </p>
 <p align="center">
-秋风起兮白云飞，草木黄落兮雁南归。
+杨柳阴阴细雨晴，残花落尽见流莺。
 </p>
 <p align="center">
-<<秋风辞>> • 刘彻
+<<春兴>> • 武元衡
 </p>
 <p align="center">
-<img src="https://tse2.mm.bing.net/th/id/OIG3.4UiE0_UwAidMogAWjaJe" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG3.MPt27e5w7MCTJlggekfR" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG3.bVogK8neYTYeRxwR8PyM" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG3.id.9e8Ccf31lcbSdMy9W" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG2.NeczBzuxS5q1AFObq8Gr" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG2.VBIHnuvvWPyQgsbth0YM" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG2.diPei2yEuwalRMrJ895g" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG2.YLHp7v2Pagr75v48Ubwe" height="400" width="400" />
 </p>
 
 ## 项目介绍
