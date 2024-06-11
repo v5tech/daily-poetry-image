@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2024/6/12 00:16:00
+  最近一次生成时间: 2024/6/12 04:12:54
 </p>
 <p align="center">
-杨柳阴阴细雨晴，残花落尽见流莺。
+一骑红尘妃子笑，无人知是荔枝来。
 </p>
 <p align="center">
-<<春兴>> • 武元衡
+<<过华清宫绝句三首>> • 杜牧
 </p>
 <p align="center">
-<img src="https://tse3.mm.bing.net/th/id/OIG2.NeczBzuxS5q1AFObq8Gr" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG2.VBIHnuvvWPyQgsbth0YM" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG2.diPei2yEuwalRMrJ895g" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG2.YLHp7v2Pagr75v48Ubwe" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG2.Y3_pqzu_UL3t.Ad.Opt6" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG2.pfH0QbfgcsKj8unaexFN" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG2.oI7rrSuajfE2br6SbmaN" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG2.lh_D6cCalrLofMZl0ZSt" height="400" width="400" />
 </p>
 
 ## 项目介绍
