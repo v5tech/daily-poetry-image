@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2024/6/14 20:22:56
+  最近一次生成时间: 2024/6/15 00:14:26
 </p>
 <p align="center">
-纸上得来终觉浅，绝知此事要躬行。
+草长莺飞二月天，拂堤杨柳醉春烟。
 </p>
 <p align="center">
-<<冬夜读书示子聿>> • 陆游
+<<村居>> • 高鼎
 </p>
 <p align="center">
-<img src="https://tse2.mm.bing.net/th/id/OIG4.Es_w5MdLQSeIlxDxA4wj" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG4.eOPpA8JGSHEsDl_Lp9Tw" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG4.eBoHWWmGFiPMhpOl_W6x" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG4.NavjRGoZBMD.BCPPQZ93" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG1.HJ9aHt05jWHbyuZk_7pA" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG1.saYp79I_XHA5nDl_JOq1" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG1.W41lr2pkP47HDPhhtss1" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG1.DYZJR63U1XCXqXOezwu2" height="400" width="400" />
 </p>
 
 ## 项目介绍
