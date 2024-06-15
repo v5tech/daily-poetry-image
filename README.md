@@ -8,19 +8,18 @@
 ### 👉🏽 [Live](https://daily.fengj.link) https://daily.fengj.link
 
 <p align="right">
-  最近一次生成时间: 2024/6/15 12:15:27
+  最近一次生成时间: 2024/6/15 16:14:54
 </p>
 <p align="center">
-石溪久住思端午，馆驿楼前看发机。
+横笛闻声不见人，红旗直上天山雪。
 </p>
 <p align="center">
-<<竞渡诗 / 及第后江宁观竞渡寄袁州剌史成应元>> • 卢肇
+<<从军行>> • 陈羽
 </p>
 <p align="center">
-<img src="https://tse2.mm.bing.net/th/id/OIG1.678f_uUw8VY.9jHclxoD" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG1.XEJt9p7GfgtCi8h0JBxS" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG1.g6eyyAwyD9z1J7U6yzZs" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG1.8bG82JOl5IDqBQsDtR3e" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG2.9RXGZQ5opfOyqeUeaGuB" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG2.VLrVtZgvc_3YvRXX.vbA" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG2.Mta.qRqsvXSU1KUQ8FMa" height="400" width="400" />
 </p>
 
 ## 项目介绍
